@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Building practical tools for media organization, automation, and lab environments.
+
 # 👋 I'm Mike
 
 I build practical tools across desktop apps, media organization, and hardware projects.

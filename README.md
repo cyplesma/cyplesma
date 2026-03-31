@@ -15,40 +15,40 @@ Most of my work comes from solving real-world problems—then turning those solu
 
 Tools designed to automate and simplify managing local media libraries (especially for Jellyfin users).
 
-* **MP4 Mapping Tool**
+* [Map-.mp4-Files-to-Show-File-.txt-Place-holder-files](https://github.com/cyplesma/Map-.mp4-Files-to-Show-File-.txt-Place-holder-files)
   Automatically maps video files to structured episode placeholders for organized TV libraries.
 
-* **TV Show Folder Structure Tool**
+* [TV-Show-Season-File-Structure-Setup](https://github.com/cyplesma/TV-Show-Season-File-Structure-Setup)
   Generates full TV show folder structures with season folders and metadata integration.
 
 ---
 
 ### 🧑‍💻 Developer Tools
 
-* **CreateClassFromDatabaseTable**
+* [CreateClassFromDatabaseTable](https://github.com/cyplesma/CreateClassFromDatabaseTable)
   Generate C# classes directly from SQL Server tables—great for rapid development and working with legacy databases.
 
-* **Custom Progress Bar (WinForms)**
+* [Custom-Progress-Bar](https://github.com/cyplesma/Custom-Progress-Bar)
   A customizable progress bar control with enhanced visuals beyond the default WinForms control.
 
 ---
 
 ### 🧪 Lab & Utility Tools
 
-* **ThisPC – Lab Machine Identifier**
+* [ThisPC](https://github.com/cyplesma/ThisPC)
   Displays machine name, IPv4 address, and a unique identifier—useful for multi-PC/KVM environments.
 
-* **Count Down Timer**
+* [Count-Down-Timer](https://github.com/cyplesma/Count-Down-Timer)
   Simple desktop countdown timer for tracking events or long-running tasks.
 
 ---
 
 ### 🔌 Hardware / Electronics
 
-* **ATX 24-Pin Connector PCB (Gerber Files)**
+* [ATX 24-Pin Connector PCB (Gerber Files)](https://github.com/cyplesma/gerber-for-Sparkfun-ATX-24-Pin-Veritical-Connector)
   PCB design for interfacing with ATX power supplies—useful for custom power distribution or bench supply builds.
 
-* **Arduino Control Logic (Stop/Step/Direction)**
+* [Arduino---StopStepFullTwoDirections](https://github.com/cyplesma/Arduino---StopStepFullTwoDirections)
   Embedded control logic example for button-driven directional control—adaptable to Arduino-like microcontrollers.
 
 ---

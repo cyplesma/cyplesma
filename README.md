@@ -1,16 +1,41 @@
-## Hi there 👋
+## 👋 Hi, I'm Mike.
 
-Building practical tools for media organization, automation, and lab environments.
+Software developer, systems designer, and lifelong builder.
 
-# 👋 I'm Mike
+I enjoy creating practical software, engineering methodologies,
+and open-source projects that bridge software, hardware,
+manufacturing, and automation.
 
-I build practical tools across desktop apps, media organization, and hardware projects.
-Most of my work comes from solving real-world problems—then turning those solutions into reusable tools.
+Most of my projects begin as solutions to real-world problems,
+then evolve into reusable tools that others can build upon.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Most Recent Projects I want to Feature:
 
+🏗 Cyples Engineering Methodology (CEM)
+
+A methodology for planning engineering projects before implementation.
+
+Designed to help humans and AI collaborate through structured decision making,
+requirements, and system architecture.
+
+🌱 Integrated Vertical Farm
+
+An open architectural platform for predictable food production.
+
+A long-term concept for scalable indoor agriculture that combines existing
+technologies into a practical, location-independent farming system.
+
+🍎 AppleBasicIDE
+
+A modern development environment for Apple II BASIC.
+
+Includes editing, renumbering, analysis, and developer tools for preserving
+and extending classic Apple software.
+
+
+## 🚀 Some Software Projects I want to Feature:
 ### 🎬 Media Organization Tools
 
 Tools designed to automate and simplify managing local media libraries (especially for Jellyfin users).

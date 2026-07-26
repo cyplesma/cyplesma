@@ -2,40 +2,39 @@
 
 Software developer, systems designer, and lifelong builder.
 
-I enjoy creating practical software, engineering methodologies,
-and open-source projects that bridge software, hardware,
-manufacturing, and automation.
+I enjoy building things that last—
+from practical software utilities to long-term engineering concepts.
 
-Most of my projects begin as solutions to real-world problems,
-then evolve into reusable tools that others can build upon.
+I believe good ideas become more valuable when they're documented, shared, and refined by others.
+
+Lately I've been documenting and open-sourcing projects that have been evolving
+for years in notebooks, databases, prototypes, and experiments.
 
 ---
 
-## 🚀 Most Recent Projects I want to Feature:
+## 🚀 Featured Projects
 
 🏗 [Cyples Engineering Methodology (CEM)](https://github.com/information-and-imagination/Cyples-Engineering-Methodology)
 
-A methodology for planning engineering projects before implementation.
+An open methodology for planning engineering projects before implementation, designed to help humans and AI collaborate through structured decisions, requirements, and system architecture.
 
-Designed to help humans and AI collaborate through structured decision making,
-requirements, and system architecture.
+---
 
-🌱 Integrated Vertical Farm
+🌱 [Integrated Vertical Farm](https://github.com/cyplesma/IntegratedVerticalFarm)
 
-An open architectural platform for predictable food production.
+A concept for a multi-story architectural platform for predictable food production, integrating existing agricultural technologies into a scalable architecture for predictable food production under a wide range of environmental conditions.
 
-A long-term concept for scalable indoor agriculture that combines existing
-technologies into a practical, location-independent farming system.
+---
 
-🍎 AppleBasicIDE
+🍎 [AppleBasicIDE](https://github.com/cyplesma/AppleBasicIDE)
 
 A modern development environment for Apple II BASIC.
 
-Includes editing, renumbering, analysis, and developer tools for preserving
-and extending classic Apple software.
+Includes editing, renumbering, analysis, and developer tools for preserving and extending classic Apple software.
 
 
-## 🚀 Some Software Projects I want to Feature:
+## 💻 Selected Software Projects
+
 ### 🎬 Media Organization Tools
 
 Tools designed to automate and simplify managing local media libraries (especially for Jellyfin users).
@@ -80,33 +79,62 @@ Tools designed to automate and simplify managing local media libraries (especial
 
 ## 🛠️ Technologies I Work With
 
-* C# / WinForms
+* C#
+* .NET / WinForms
 * SQL Server (T-SQL)
 * Android (Java)
 * Arduino / Embedded Systems
-* Desktop utilities & tooling
+* CAD & 3D Modeling
+* 3D Printing & Maker Technologies
+* Git & GitHub
+* AI-assisted software development
+* 
+
 
 ---
 
 ## 💡 What I Focus On
 
-* Automating repetitive workflows
-* Building practical, usable tools
+* Practical software development
+* Engineering methodologies
+* Automation and manufacturing
 * Bridging software and hardware
-* Creating solutions I can reuse across projects
+* Integrating software, hardware, and documentation into complete solutions
+* Open-source knowledge sharing
+* Engineering documentation & knowledge management
 
 ---
 
 ## 📌 Notes
 
-Most of these projects were built to solve real problems in my own workflow.
-If they help you too, that’s even better.
+Most of these projects began as solutions to problems I encountered in software development, engineering, manufacturing, or everyday life.
 
 ---
 
-## 🤝 Contributions & Feedback
+## 🔭 Currently Exploring
 
-Feel free to open issues, suggest improvements, or fork anything you find useful.
+* Cyples Engineering Methodology (CEM)
+* Integrated Vertical Farm
+* AppleBasicIDE
+* Manufacturing automation
+* AI-assisted engineering workflows
+  
+---
+
+## 🌐 Organizations
+
+Many of my larger concept and methodology projects are developed under the
+[Information-and-Imagination](https://github.com/information-and-imagination).
+
+---
+
+## ☕ Thanks for stopping by
+
+Whether you're interested in software, engineering methodology,
+automation, electronics, or long-term design concepts,
+I hope you find something here that's useful or sparks a new idea.
+
+Happy building!
 
 ---
 

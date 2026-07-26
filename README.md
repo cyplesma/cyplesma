@@ -22,7 +22,7 @@ An open methodology for planning engineering projects before implementation, des
 
 🌱 [Integrated Vertical Farm](https://github.com/cyplesma/IntegratedVerticalFarm)
 
-A concept for a multi-story architectural platform for predictable food production, integrating existing agricultural technologies into a scalable architecture for predictable food production under a wide range of environmental conditions.
+A concept for a multi-story architectural platform that integrates existing agricultural technologies into a scalable system for food production under a wide range of environmental conditions.
 
 ---
 
@@ -88,8 +88,6 @@ Tools designed to automate and simplify managing local media libraries (especial
 * 3D Printing & Maker Technologies
 * Git & GitHub
 * AI-assisted software development
-* 
-
 
 ---
 

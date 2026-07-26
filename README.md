@@ -13,7 +13,7 @@ then evolve into reusable tools that others can build upon.
 
 ## 🚀 Most Recent Projects I want to Feature:
 
-🏗 Cyples Engineering Methodology (CEM)
+🏗 [Cyples Engineering Methodology (CEM)](https://github.com/information-and-imagination/Cyples-Engineering-Methodology)
 
 A methodology for planning engineering projects before implementation.
 

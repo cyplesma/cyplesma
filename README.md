@@ -55,6 +55,9 @@ Tools designed to automate and simplify managing local media libraries (especial
 * [Custom-Progress-Bar](https://github.com/cyplesma/Custom-Progress-Bar)
   A customizable progress bar control with enhanced visuals beyond the default WinForms control.
 
+* [WinForms-FolderSelector-FileSelector-Control](https://github.com/cyplesma/WinForms-FolderSelector-FileSelector-Control)
+  A reusable Windows Forms UserControl that combines a TextBox with a browse button.
+
 ---
 
 ### 🧪 Lab & Utility Tools

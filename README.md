@@ -32,6 +32,15 @@ A modern development environment for Apple II BASIC.
 
 Includes editing, renumbering, analysis, and developer tools for preserving and extending classic Apple software.
 
+---
+
+# 🧠 [Arduino Neural Cluster](https://github.com/cyplesma/23LC1024-SPI-SRAM-Tester)
+
+A SRAM tester mounted on a Arduino prototype shield.
+
+Includes the KiCad files I used to help me get it soldered up.
+
+
 
 ## 💻 Selected Software Projects
 

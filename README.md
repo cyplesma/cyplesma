@@ -38,7 +38,8 @@ Includes editing, renumbering, analysis, and developer tools for preserving and 
 
 A SRAM tester mounted on a Arduino prototype shield.
 
-Includes the KiCad files I used to help me get it soldered up.
+Includes the KiCad files, Arduino Sketch, and my test results for the first 3 chips I tested.
+
 
 
 

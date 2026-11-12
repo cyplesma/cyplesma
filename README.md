@@ -34,7 +34,7 @@ Includes editing, renumbering, analysis, and developer tools for preserving and 
 
 ---
 
-# 🧠 [Arduino Neural Cluster](https://github.com/cyplesma/23LC1024-SPI-SRAM-Tester)
+🧠 [Arduino Neural Cluster](https://github.com/cyplesma/23LC1024-SPI-SRAM-Tester)
 
 A SRAM tester mounted on a Arduino prototype shield.
 
